@@ -1,0 +1,8 @@
+/* Стили для вывода цвета */
+.good {
+    color: green;
+ }
+ 
+ .error {
+    color: red;
+ }
